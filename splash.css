@@ -1,0 +1,60 @@
+TD#story1 {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; PADDING-TOP: 1em; BACKGROUND-COLOR: #fff
+}
+TD#story2 {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; PADDING-TOP: 1em; BACKGROUND-COLOR: #fff
+}
+TD#story1 P {
+	LINE-HEIGHT: 1.5em
+}
+TD#story2 P {
+	LINE-HEIGHT: 1.5em
+}
+#story1 H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 130%; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333; PADDING-TOP: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+#story2 H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 130%; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333; PADDING-TOP: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.floatleft {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #999 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 80%; PADDING-BOTTOM: 10px; BORDER-LEFT: #999 1px solid; WIDTH: 160px; COLOR: #cc3300; PADDING-TOP: 10px; BORDER-BOTTOM: #999 1px solid
+}
+.floatright {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #999 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 80%; PADDING-BOTTOM: 10px; BORDER-LEFT: #999 1px solid; WIDTH: 160px; COLOR: #cc3300; PADDING-TOP: 10px; BORDER-BOTTOM: #999 1px solid
+}
+.floatleft {
+	BORDER-TOP: #555 2px solid; FLOAT: left; MARGIN: 10px 10px 10px 0px; BORDER-LEFT: #555 2px solid
+}
+.floatright {
+	BORDER-RIGHT: #555 2px solid; FLOAT: right; MARGIN: 10px 0px 10px 10px; BORDER-BOTTOM: #555 2px solid
+}
+TD.upcoming {
+	MARGIN: 1em; VERTICAL-ALIGN: top
+}
+TD.recent {
+	MARGIN: 1em; VERTICAL-ALIGN: top
+}
+TR#upcoming_recent IMG {
+	CLEAR: both; FLOAT: right; MARGIN-LEFT: 0.5em
+}
+TR#upcoming_recent P {
+	TEXT-ALIGN: center
+}
+TR#upcoming_recent LI {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 1em; MARGIN: 0px; COLOR: #333; PADDING-TOP: 0.1em; LIST-STYLE-TYPE: none
+}
+TD.upcoming P {
+	BACKGROUND-COLOR: #4690da
+}
+TD.recent P {
+	BACKGROUND-COLOR: #2a7f7f
+}
+.style1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 130%
+}
+TD.upcoming .style1 {
+	COLOR: #4690da
+}
+TD.recent .style1 {
+	COLOR: #2a7f7f
+}

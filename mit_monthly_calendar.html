@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<TITLE>MIT ANS Calendar</TITLE>
+<LINK href="master.css" type=text/css rel=stylesheet>
+<LINK rel=stylesheet href="events_calendar.css" type=text/css>
+
+<STYLE type=text/css>.linksnew A 	
+	{
+	PADDING-RIGHT: 2px; DISPLAY: block; PADDING-LEFT: 2px; FONT-SIZE: 80%; PADDING-BOTTOM: 2px; MARGIN-LEFT: 10px; PADDING-TOP: 2px
+	}
+#content H3 
+	{
+	BORDER-TOP: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+	}
+</STYLE>
+
+</HEAD>
+
+<BODY>
+<DIV id="masthead"> 
+	<IMG height=80 
+	src="images/ans_top.gif" 
+	width=755><IMG height=78 
+	src="images/ans_banner2.jpg" 
+	width=755>
+	<DIV id=globalLinks>
+		<DIV align="center">
+			<A href="index.html">Home</A> 
+			<A href="activities.html">Activities</A> 
+			<A href="resources.html">Resources</A> 
+			<A href="http://events.mit.edu/scripts/monthly_ext.pl?groupid=015&location=http://web.mit.edu/ans/www">Calendar</A> 
+			<A href="officers.html">Officers</A> 
+			<A href="alphanusigma.html">Alpha Nu Sigma</A> 
+			<A href="links.html">Links</A> 
+		</DIV>
+	</DIV>
+	<!-- end globallinks -->
+</DIV>
+<!-- end masthead-->
+
+<DIV class=pagecell id=pagecell>
+  	<H2 class=sectionName>ANS Calendar</H2>
+<DIV id=navbar align="center">
+<!--Need to update "to" date each semester-->
+	<P><A href="http://events.mit.edu/scripts/list_ext.pl?groupid=015&location=http://web.mit.edu/ans/www&to=20120101">List of Upcoming Events</A>
+	</P>
+	<events_calendar view="monthly_navbar">
+</DIV>
+<DIV id=calendar align="center">
+    <events_calendar view="monthly">
+	<BR>
+	<P><A href="https://events.mit.edu/edit/edit.do">Add Events</A>
+	</P>
+	<BR>
+</DIV>
+<!-- end content-->
+
+<DIV id=footer>
+  <TR bgcolor=#f3f3f3>
+    <TD bgcolor=#f3f3f3 colSpan=2 align="center">
+		<FORM method='get' action='http://gb-server.mit.edu/search' style=" ">
+		  <DIV align="center">
+		    <INPUT type='text' name='q' size='32' maxlength='255' value=''/>
+		    <INPUT type='submit' name='btnG' value='Search MIT'/>
+		    <INPUT type='hidden' name='site' value='mit'/>
+		    <INPUT type='hidden' name='client' value='mit'/>
+		    <INPUT type='hidden' name='proxystylesheet' value='http://web.mit.edu/xsl/google-mit.xsl'/>
+		    <INPUT type='hidden' name='output' value='xml_no_dtd'/>
+		    <INPUT type='hidden' name='as_dt' value='i'/>
+		    <INPUT type='hidden' name='as_sitesearch' value='web.mit.edu' />
+          </DIV>
+		</FORM>
+      <P class=style2>
+	  	<A href="http://web.mit.edu/">
+			<IMG 
+				height=60 
+				alt="MIT logo" 
+				src="images/mit-redgrey-footer2.gif" 
+				width=173 
+				align=right 
+				vspace=10 
+				hspace=10 
+				border=0
+			>
+		</A>
+		<A href="http://www.ans.org/">
+			<IMG 
+				class=img_right 
+				height=93 
+				alt=rrr 
+				hspace=10 
+				src="images/anslogo3.gif" 
+				width=93 
+				align=left 
+				vspace=0 
+				border=0
+			>
+		</A>
+	  </P>
+      <P class=style2 align="left"><STRONG>MIT Section of the <BR>American Nuclear Society</STRONG><BR>
+          <A href="mailto:ans@mit.edu">Email the MIT ANS Officers</A> 
+	  </P>
+      <P class=style2 align="left"><SPAN class=style10> Questions or comments about this site? Contact 
+	  	the <A href="mailto:ans-webmaster@mit.edu">ANS Webmaster</A></SPAN> 
+  	  </P>
+	  <BR>
+  	</TD>
+  </TR>
+</DIV><!-- end footer-->
+</DIV><!-- end pagecell-->
+</BODY>
+
+</HTML>

@@ -1,0 +1,274 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #f3f3f3; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+P {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 1.4; FONT-FAMILY: Geneva,sans-serif
+}
+LI {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 1.4; FONT-FAMILY: Geneva,sans-serif
+}
+A:link {
+	COLOR: #005fa9; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #005fa9; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #005fa9; TEXT-DECORATION: underline
+}
+H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333333; PADDING-TOP: 0px; FONT-FAMILY: Helvetica, sans-serif
+}
+H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333333; PADDING-TOP: 0px; FONT-FAMILY: Helvetica, sans-serif
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333333; PADDING-TOP: 0px; FONT-FAMILY: Helvetica, sans-serif
+}
+H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333333; PADDING-TOP: 0px; FONT-FAMILY: Helvetica, sans-serif
+}
+H4 {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em
+}
+#masthead {
+	width:755px; LEFT: 20px; POSITION: absolute; TOP: 9px
+}
+#globalLinks {
+	width:755px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: x-small; PADDING-BOTTOM: 0px; MARGIN: 5px; TEXT-TRANSFORM: uppercase; PADDING-TOP: 0px; FONT-FAMILY: Geneva,sans-serif; TOP: 161px
+}
+#globalLinks A:link {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; COLOR: #666666; PADDING-TOP: 5px
+}
+#globalLinks A:visited {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; COLOR: #666666; PADDING-TOP: 5px
+}
+#globalLinks A:hover {
+	COLOR: #ffffff; BACKGROUND-COLOR: #666666; TEXT-DECORATION: none
+}
+.subglobalLinks {
+	BACKGROUND: #e6e6e6; LEFT: 20px; VISIBILITY: hidden; COLOR: #ffffff; FONT-FAMILY: Geneva,sans-serif; POSITION: absolute; TOP: 180px
+}
+.subglobalLinks A:link {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: x-small; PADDING-BOTTOM: 5px; TEXT-TRANSFORM: uppercase; COLOR: #333; PADDING-TOP: 5px
+}
+.subglobalLinks A:visited {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: x-small; PADDING-BOTTOM: 5px; TEXT-TRANSFORM: uppercase; COLOR: #333; PADDING-TOP: 5px
+}
+.subglobalLinks A:hover {
+	COLOR: #ffffff; BACKGROUND-COLOR: #666666
+}
+#subglobal2 {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; MARGIN-LEFT: 54px; BORDER-LEFT: #999999 1px solid; COLOR: #666666; BORDER-BOTTOM: #999999 1px solid
+}
+#subglobal3 {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; MARGIN-LEFT: 125px; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid
+}
+#pagecell {
+	LEFT: 20px; WIDTH: 755px; POSITION: absolute; TOP: 202px; BACKGROUND-COLOR: #ffffff
+}
+#pfaculty {
+	BACKGROUND-COLOR: #ffffff
+}
+#pstaff {
+	BACKGROUND-COLOR: #ffffff
+}
+#students {
+	BACKGROUND-COLOR: #ffffff
+}
+#palumni {
+	BACKGROUND-COLOR: #ffffff
+}
+#researchers {
+	BACKGROUND-COLOR: #ffffff
+}
+#breadCrumb {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 3px; MARGIN: 0px; TEXT-TRANSFORM: lowercase; COLOR: #999999; PADDING-TOP: 3px; FONT-FAMILY: Geneva, Arial, sans-serif; LETTER-SPACING: 0.1em
+}
+#breadCrumb A:link {
+	COLOR: #999999
+}
+#breadCrumb A:visited {
+	COLOR: #999999
+}
+#breadCrumb A:hover {
+	COLOR: #005fa9; TEXT-DECORATION: underline
+}
+H2.sectionName {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 15px; COLOR: #005fa9; PADDING-TOP: 5px
+}
+#sidebar {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 90%; FLOAT: left; BORDER-LEFT: #cccccc 1px solid; WIDTH: 200px; BORDER-BOTTOM: #cccccc 1px solid
+}
+A.sidebar {
+	PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 3px; FONT-SIZE: 85%; PADDING-BOTTOM: 3px; COLOR: #666666; PADDING-TOP: 3px; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: Geneva,sans-serif; BACKGROUND-COLOR: #f5f7f7
+}
+#sidebar H3 {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 85%; PADDING-BOTTOM: 3px; TEXT-TRANSFORM: uppercase; COLOR: #666666; PADDING-TOP: 3px; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #e6e6e6
+}
+.sidebartable {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 85%; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 200px; PADDING-TOP: 0px; BACKGROUND-COLOR: #005fa9
+}
+TD.border {
+	BORDER-RIGHT: #cccccc 1px solid; FONT-FAMILY: Geneva,sans-serif
+}
+.sidebartable A:link {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #005fa9; PADDING-TOP: 0px; BACKGROUND-COLOR: #e6e6e6; TEXT-ALIGN: center
+}
+.sidebartable A:visited {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #005fa9; PADDING-TOP: 0px; BACKGROUND-COLOR: #e6e6e6; TEXT-ALIGN: center
+}
+.sidebartable A:hover {
+	COLOR: #005fa9; BACKGROUND-COLOR: #e6e6e6
+}
+#sidebar A:hover {
+	COLOR: #005fa9; BACKGROUND-COLOR: #e6e6e6
+}
+#search {
+	PADDING-RIGHT: 0px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0px; FONT-SIZE: 85%; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #ffffff; PADDING-TOP: 0px; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #005fa9;
+}
+#footer {
+	CLEAR: both;
+	PADDING-RIGHT: 0px;
+	BORDER-TOP: #cccccc 1px solid;
+	PADDING-LEFT: 10px;
+	FONT-SIZE: 12px;
+	PADDING-BOTTOM: 0px;
+	WIDTH: 555px;
+	COLOR: #005fa9;
+	LINE-HEIGHT: 1.4;
+	PADDING-TOP: 10px;
+	POSITION: relative;
+	background-color: #f3f3f3;
+}
+#footer IMG {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+#floatright {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 90%; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 10px 10px 10px 20px; BORDER-LEFT: #6699ff 1px solid; WIDTH: 35%; PADDING-TOP: 0px; BACKGROUND-COLOR: #f3f3f3
+}
+#floatright H3 {
+	PADDING-RIGHT: 2px; BORDER-TOP: #6699ff 2px solid; PADDING-LEFT: 2px; FONT-SIZE: 100%; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; BORDER-BOTTOM: #6699ff 2px solid; BACKGROUND-COLOR: #6699ff; TEXT-ALIGN: center
+}
+.caption {
+	FONT-SIZE: 90%; COLOR: #005fa9; TEXT-ALIGN: right
+}
+.clear {
+	CLEAR: right; MARGIN-TOP: 10px
+}
+.layer {
+	Z-INDEX: 2; VISIBILITY: hidden; WIDTH: 400px; POSITION: absolute
+}
+.mainlinks {
+	COLOR: #999999; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; HEIGHT: 25px; BACKGROUND-COLOR: #990000
+}
+.searchsmall {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #990000
+}
+.mainlinks A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #990000
+}
+.mainlinks A:visited {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #990000
+}
+UNKNOWN {
+	COLOR: #ffffff
+}
+#people {
+	PADDING-LEFT: 225px; MARGIN: 0px 0px 20px; BACKGROUND-COLOR: #f6f6f6
+}
+#people H1 {
+	FONT-SIZE: 110%; PADDING-TOP: 20px
+}
+#content {
+	MARGIN: 0px 0px 0px 200px;
+}
+#content-full {
+	MARGIN: 0px 0px 0px 0px;
+}
+#footer {
+	MARGIN: 0px 0px 0px 200px
+}
+#content H2 {
+	FONT-SIZE: 90%
+}
+#content H2 {
+	PADDING-RIGHT: 2px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 20px; FONT-WEIGHT: normal; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 2px; COLOR: #666666; PADDING-TOP: 2px; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #e9eaeb
+}
+#content H2 A {
+	PADDING-RIGHT: 2px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 20px; FONT-WEIGHT: normal; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 2px; COLOR: #666666; PADDING-TOP: 2px; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #e9eaeb
+}
+#content H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; FONT-WEIGHT: normal; FONT-SIZE: 90%; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333333; PADDING-TOP: 10px
+}
+#content P {
+	PADDING-RIGHT: 10%; PADDING-LEFT: 20px; FONT-SIZE: 12px; PADDING-BOTTOM: 4px; MARGIN: 2px 0px; LINE-HEIGHT: 1.5em; PADDING-TOP: 4px
+}
+#content IMG {
+	MARGIN: 20px
+}
+#arrowsright {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.faculty {
+	BORDER-TOP: #cccccc 1px solid; PADDING-BOTTOM: 10px; WIDTH: 95%; PADDING-TOP: 10px; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #f0f0f0
+}
+.faculty P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 75%; COLOR: #3366cc; PADDING-TOP: 0px
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+P.floatpeople {
+	FLOAT: right; WIDTH: 125px
+}
+#pfaculty {
+	VISIBILITY: hidden; MARGIN: 0px 0px 0px 200px; WIDTH: 500px; POSITION: absolute
+}
+#pstaff {
+	VISIBILITY: hidden; MARGIN: 0px 0px 0px 200px; WIDTH: 500px; POSITION: absolute
+}
+#pstudents {
+	VISIBILITY: hidden; MARGIN: 0px 0px 0px 200px; WIDTH: 500px; POSITION: absolute
+}
+#palumni {
+	VISIBILITY: hidden; MARGIN: 0px 0px 0px 200px; WIDTH: 500px; POSITION: absolute
+}
+#ppostdocs {
+	VISIBILITY: hidden; MARGIN: 0px 0px 0px 200px; WIDTH: 500px; POSITION: absolute
+}
+#pvisitingscholars {
+	VISIBILITY: hidden; MARGIN: 0px 0px 0px 200px; WIDTH: 500px; POSITION: absolute
+}
+#tl {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 100; LEFT: -1px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: absolute; TOP: -1px
+}
+#tr {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 100; RIGHT: -1px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: absolute; TOP: -1px
+}
+.searchwhite {
+	COLOR: #ffffff; FONT-FAMILY: Arial,sans-serif
+}
+.bordertopbot {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #ffffff 1px solid
+}
+.revised {
+	BORDER-TOP: #cccccc 1px solid; COLOR: #996633; BACKGROUND-COLOR: #f3f3f3
+}
+#content P.revised {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; FONT-STYLE: italic; FONT-VARIANT: normal
+}
+TABLE.schedule {
+	FONT-SIZE: 80%; MARGIN-LEFT: 15%; WIDTH: 400px; COLOR: #333333; FONT-FAMILY: Arial,sans-serif
+}
+.schedule TD {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 2px; PADDING-TOP: 2px
+}
+: italic; FONT-VARIANT: normal
+}
+TABLE.schedule {
+	FONT-SIZE: 80%; MARGIN-LEFT: 15%; WIDTH: 400px; COLOR: #333333; FONT-FAMILY: Arial,sans-serif
+}
+.schedule TD {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 2px; PADDING-TOP: 2px
+}

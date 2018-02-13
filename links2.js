@@ -1,0 +1,1 @@
+// JavaScript Document      var menuitem1 = new menu(8,1,"hidden");			var menuitem2 = new menu(8,2,"hidden");			var menuitem3 = new menu(8,3,"hidden");			var menuitem4 = new menu(8,4,"hidden");			var menuitem5 = new menu(8,5,"hidden");			var menuitem6 = new menu(8,6,"hidden");			var menuitem7 = new menu(8,7,"hidden");						var menuitem8 = new menu(8,8,"hidden");

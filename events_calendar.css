@@ -1,0 +1,52 @@
+/* MIT Events Calendar Style Sheet for external web pages */
+
+/* Default for text within <p> tag */
+p {  font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 16px; color: #505050; font-size: 12px; }
+
+/* Monthly Navbar*/
+
+.mnavtext { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color:#FFFFFF; }
+a.mnavtext:link {color: #FFFFFF; font-weight:bold; }
+a.mnavtext:visited {color: #CCCCCC; font-weight:bold; }
+a.mnavtext:hover {color: #6666CC; font-weight:bold; }
+.mnavbkgnd {  background-color: #003399; }
+
+/* Monthly Calendar Grid */
+.month1bkgnd {  background-color: #993333; }
+.month1textmonth {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #FFFFFF; }
+.month1texttoday {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 14px; color: #CCCCCC; font-weight: bold; }
+a.month1texttoday:link {color: #CCCCCC; font-weight:bold; text-decoration:none; }
+a.month1texttoday:visited {color: #CCCCCC; font-weight:bold; text-decoration:none; }
+a.month1texttoday:hover {color: #CCCCCC; font-weight:bold; text-decoration:underline; }
+a.month1texttoday:active {color: #6666CC; font-weight:bold; text-decoration:underline; }
+.month2 {  background-color: #0099cc; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #333333 ; }
+.month3 {  background-color: #CCCCCC; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #333333; }
+.month3textfaint {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 14px; color: #999999; font-weight: bold; }
+a.month3textfaint:link {color: #CCCCCC; font-weight:bold; text-decoration:none; }
+a.month3textfaint:visited {color: #CCCCCC; font-weight:bold; text-decoration:none; }
+a.month3textfaint:hover {color: #CCCCCC; font-weight:bold; text-decoration:underline; }
+a.month3textfaint:active {color: #6666CC; font-weight:bold; text-decoration:underline; }
+.month4 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #993333; background-color: #f3f3f3; background-position: top; }
+a.month4:link {color: #993333; font-weight:bold; }
+a.month4:visited {color: #333333; font-weight:bold; }
+a.month4:hover {color: #6666CC; font-weight:bold; }
+a.month4:active {color: #6666CC; font-weight:bold; }
+
+/* Single Event */
+.event1texttitle {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #505050; }
+.event1textdetail {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #505050; }
+a.event1textdetail:link {color: #993333; font-weight:bold; text-decoration:none; }
+a.event1textdetail:visited {color: #CCCCCC; font-weight:bold; text-decoration:none; }
+a.event1textdetail:hover {color: #CCCCCC; font-weight:bold; text-decoration:underline; }
+a.event1textdetail:active {color: #6666CC; font-weight:bold; text-decoration:underline; }
+.event1bkgnd {  background-color: #FFFFFF; }
+.event2bkgnd {  background-color: #FFFFFF; }
+.event3bkgnd {  background-color: #FFFFFF; }
+.event4bkgnd {  background-color: #0099CC; }
+
+/* Event list */
+.list1text {  font-family: Arial, Helvetica, sans-serif; font-size: large; font-weight: bolder;}
+.list2text {  font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold;}
+.list3text {  font-family: Verdana, Arial, Helvetica, sans-serif;}
+.listtable {  font-family: Verdana, Arial, Helvetica, sans-serif;}
+
